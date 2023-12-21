@@ -14,4 +14,4 @@
 
 Данные на светодиодную матрицу передаются с помощью SPI, данные джойстика принимаются и обрабатываются с помощью DMA и АЦП.
 
-Видео работы проекта представлено по ссылке: https://drive.google.com/file/d/1Owo-Jdlg65USb0YUj9jIj1fgJQU1TZNW/view?usp=sharing
+Демонстрация работоспособности проекта представлена в формате видео по ссылке: https://drive.google.com/file/d/1Owo-Jdlg65USb0YUj9jIj1fgJQU1TZNW/view?usp=sharing
